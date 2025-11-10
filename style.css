@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    user-select: none;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* Roots */
+:root{
+    --background-color-white: #ffff;
+    --background-color-black: #000;
+    --text-color-black: #111;
+    --text-color-white: #fff;
+}
